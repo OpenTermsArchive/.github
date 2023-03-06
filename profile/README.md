@@ -1,4 +1,4 @@
-<img src="https://opentermsarchive.org/images/logo/logo-open-terms-archive-black.svg" width="206" height="94" />
+<img src="https://opentermsarchive.org/images/logo/logo-open-terms-archive-black.svg" width="406" height="52" />
 
 ## When the services we use every day change their rules, we should be the first ones to know.
 
