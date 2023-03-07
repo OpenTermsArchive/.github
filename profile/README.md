@@ -1,5 +1,13 @@
 <img src="https://opentermsarchive.org/images/logo/logo-open-terms-archive-black.svg" width="406" height="52" />
 
-## When the services we use every day change their rules, we should be the first ones to know.
+### Open Terms Archive records and makes visible every change to the terms of digital services.
+### Our community analyses these changes, shifting the power balance from big tech towards end users.
 
-Open Terms Archive records every change to the terms of digital services. Our community analyses these changes, shifting the power balance from big tech towards end users.
+1. 💡 [Learn more](https://opentermsarchive.org) on opentermsarchive.org.
+2. 📑 [Read case studies](https://opentermsarchive.org/case-studies) of what Open Terms Archive can expose.
+3. 🕵️ [Explore the datasets](https://github.com/OpenTermsArchive?q=versions&type=public&language=&sort=) and find fishy stuff.
+4. 📣 Share your findings with [`#TermsSpotting`](https://twitter.com/search?q=%23TermsSpotting).
+
+- - -
+
+We initially focus on institutional partners and are progressively opening up contribution to Open Terms Archive in ways that are sustainable, productive and joyful. [📨 Contact us](mailto:contact@opentermsarchive.org?Contributing) if you’d like to contribute!
