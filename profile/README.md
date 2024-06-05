@@ -3,9 +3,9 @@
 ### Open Terms Archive records and makes visible every change to the terms of digital services.<br/>Our community analyses these changes, shifting the power balance from big tech towards end users.
 
 1. 💡 [Learn more](https://opentermsarchive.org) on opentermsarchive.org.
-2. 📑 [Read case studies](https://opentermsarchive.org/case-studies) of what Open Terms Archive can expose.
+2. 📑 [Read memos](https://opentermsarchive.org/en/memos/) of what Open Terms Archive can expose.
 3. 🕵️ [Explore the datasets](https://github.com/OpenTermsArchive?q=versions&type=public&language=&sort=) and find fishy stuff.
-4. 📣 Share your findings with [`#TermsSpotting`](https://twitter.com/search?q=%23TermsSpotting).
+4. 📣 Share your findings with [`#TermsSpotting`](https://mastodon.lescommuns.org/tags/TermsSpotting).
 
 - - -
 
