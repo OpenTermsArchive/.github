@@ -4,7 +4,7 @@
 
 1. 💡 [Learn more](https://opentermsarchive.org) on opentermsarchive.org.
 2. 📑 [Read memos](https://opentermsarchive.org/en/memos/) of what Open Terms Archive can expose.
-3. 🕵️ [Explore the datasets](https://github.com/OpenTermsArchive?q=versions&type=public&language=&sort=) and find fishy stuff.
+3. 🕵️ [Explore the datasets](https://github.com/orgs/OpenTermsArchive/repositories?q=-versions+archived%3Afalse&type=public) and find fishy stuff.
 4. 📣 Share your findings with [`#TermsSpotting`](https://mastodon.social/tags/TermsSpotting).
 
 - - -
